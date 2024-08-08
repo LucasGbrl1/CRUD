@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CadastroDeleteViewController
+comment1.params=
+comment1.target=void\ handleCadastrar()
+comment2.params=
+comment2.target=void\ handleAtualizar()
+comment3.params=
+comment3.target=void\ handleDeletar()
+comment4.params=
+comment4.target=void\ handleBuscar()
+comment5.params=nome\ email\ senha
+comment5.target=void\ inserirDadosNoBanco(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=nome\ email\ senha
+comment6.target=void\ atualizarDadosNoBanco(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=email
+comment7.target=void\ deletarDadosNoBanco(java.lang.String)
+comment8.params=email
+comment8.target=void\ buscarDadosNoBanco(java.lang.String)
+comment9.params=
+comment9.target=void\ abrirTelaLogin()
+numComments=10
